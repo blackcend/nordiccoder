@@ -9,7 +9,7 @@
 /* SECTION TOP BAR */
 .top-bar {
     padding: 0.5rem;
-    background-color: deeppink;
+    background-color: var(--primary-color);
 }
 
 .top-bar__social-list {
