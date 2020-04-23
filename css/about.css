@@ -9,9 +9,16 @@
 
 /* SECTION HERO */
 .hero {
-    padding: 1.5rem;
-    margin-top: 1rem;
+    padding: 3rem;
     background: url('../images/page-top-bg.jpg') no-repeat center center;
 }
 
-.hero__title {}
+.hero__title {
+    padding: 0.5rem;
+    margin: 0 auto;
+    width: 200px;
+    text-align: center;
+    color: var(--white-color);
+    font-weight: 700;
+    background-color: var(--primary-color);
+}
