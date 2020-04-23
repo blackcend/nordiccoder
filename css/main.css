@@ -1,0 +1,14 @@
+* {
+    --white-color: #fff;
+    --primary-color: deeppink;
+    --text-color: rgb(107, 107, 107);
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* FONTs */
+    font-family: 'Poppins', sans-serif;
+}
+

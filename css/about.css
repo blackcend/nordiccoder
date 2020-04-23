@@ -1,0 +1,17 @@
+/* ============================================= */
+/* 
+    MAIN LAYOUT
+    1.Section HERO
+    2.Section ABOUT
+    3.Section FACTS
+*/
+/* ============================================= */
+
+/* SECTION HERO */
+.hero {
+    padding: 1.5rem;
+    margin-top: 1rem;
+    background: url('../images/page-top-bg.jpg') no-repeat center center;
+}
+
+.hero__title {}
